@@ -89,6 +89,7 @@ AI agents are autonomous software entities that perceive their environment, make
 - [Agno](https://github.com/agno-agi/agno) - Lightweight library for building multi-modal agents with memory and knowledge.
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Governance layer for AI agents, with deterministic scheduling, per-task git worktree isolation, quality gates, and an HMAC-chained audit log; drives 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider) alongside other agent workloads.
 - [agent-kit](https://github.com/socialrobot-io/agent-kit) - Secure per-customer TypeScript agents with sandboxed execution, curated memory, and human-gated learning. Built on Vercel AI SDK and AgentFS.
+- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes, with typed task, validation, merge, and release-readiness boundaries; each task works in a dedicated branch/worktree and the merge queue owns risk-based review. MIT, on npm as @yylo/cli.
 
 ## Agent-to-Agent Protocols
 
